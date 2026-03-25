@@ -28,3 +28,31 @@ h3{
 li{
     margin: 20px;
 }
+
+.botao {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff0055;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.botao:hover {
+    background-color: #cc0044;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(34, 34, 121);
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: rgb(23, 165, 201);
+}
