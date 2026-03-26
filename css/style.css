@@ -14,6 +14,8 @@ a{
 
 h1{
     color:rgb(192, 47, 47);
+    font-family: 'Audiowide', sans-serif;
+    text-align: center;
 }
 
 h2{
@@ -54,4 +56,9 @@ li{
 
 .btn:hover {
     background-color: rgb(23, 165, 201);
+}
+
+.centralizar{
+    display: block;
+    margin: 0 auto;
 }
