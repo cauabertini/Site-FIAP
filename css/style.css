@@ -20,7 +20,6 @@ h2{
     color:rgb(192, 47, 47);
 }
 
-
 h3{
     color:rgb(192, 47, 47);
 }
@@ -40,7 +39,7 @@ li{
 }
 
 .botao:hover {
-    background-color: #cc0044;
+    background-color: #cc0346;
 }
 
 .btn {
