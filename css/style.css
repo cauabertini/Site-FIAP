@@ -62,3 +62,7 @@ li{
     display: block;
     margin: 0 auto;
 }
+
+.texto{
+    font-size: 24px;
+}
